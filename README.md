@@ -39,8 +39,4 @@ The pipeline processes PDF documents, extracts textual and tabular content using
 - Deterministic instruction-based prompting
 - Designed for academic evaluation and reproducibility
 
-## Setup Instructions
 
-### Install Python Dependencies
-```bash
-pip install -r requirements.txt
