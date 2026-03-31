@@ -1,0 +1,10 @@
+google-generativeai
+sentence-transformers
+faiss-cpu
+numpy
+PyMuPDF
+pdf2image
+PyPDF2
+python-doctr[torch]
+tqdm
+Pillow
