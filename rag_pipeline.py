@@ -196,7 +196,7 @@ Question:
 
 # ✅ Gemini LLM
 import google.generativeai as genai
-genai.configure(api_key="AIzaSyAVNId_0iM6nclZi9F2OSjXLrozNwmZYZw")
+genai.configure(api_key="API KEY")
 
 model = genai.GenerativeModel(model_name="models/gemini-2.5-flash")
 response = model.generate_content(final_prompt)
